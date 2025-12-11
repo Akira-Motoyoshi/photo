@@ -1,45 +1,49 @@
-# photo
-# 📸 Evidence of Photography / 撮影記録
-
-このレポジトリでは、現地調査・文化研究・フィールドワークの一環として撮影した写真を記録する。  
-以下の写真は **本人が実際に現地を訪れたことを示すエビデンス** として保存する。
+# 📸 Photo Sample Repository  
+このレポジトリは、写真撮影および画像アップロードが問題なく行えることを示すための **サンプル写真集（Demo Repository）** です。  
+内容は特定のテーマに依存せず、撮影・整理・公開の機能確認を目的としています。
 
 ---
 
-## 1️⃣ Street & Local Life in Rajasthan
-インド・ラージャスターン州の街角で撮影された日常風景。
+# 🌸 Sample Photos / サンプル写真集
 
-![Rajasthan Street Scene](photos/rajasthan_street_01.jpg)
-
----
-
-## 2️⃣ Jantar Mantar & City Palace (Jaipur)
-ジャンタル・マンタル天文台とシティパレスの写真。
-
-![Jantar Mantar & City Palace](photos/jaipur_citypalace_01.jpg)
+以下は、撮影テストおよび GitHub アップロード動作確認のために掲載している写真です。  
+現在は「桜」や「自然風景」など、日本国内で撮影した写真を例として使用しています。
 
 ---
 
-## 3️⃣ Amber Fort Hill（本人 Evidence）
-本人が写っている写真。現地滞在を示す強い証拠資料。
-
-![Amber Fort - Self Evidence](photos/amberfort_self_01.jpg)
+## 📷 Sample 1
+![Sample Photo 1](DSC03915.JPG)
 
 ---
 
-## 4️⃣ Sardar Market (Jodhpur)
-サルダールマーケット入口と都市の生活風景。
-
-![Sardar Market Gate](photos/jodhpur_market_01.jpg)
+## 📷 Sample 2
+![Sample Photo 2](DSC03917.JPG)
 
 ---
 
-## 5️⃣ Mehrangarh Fort View
-メヘラーンガル城からの俯瞰写真。
-
-![Mehrangarh Fort View](photos/mehrangarh_view_01.jpg)
+## 📷 Sample 3
+![Sample Photo 3](DSC04892.JPG)
 
 ---
 
-# 📁 推奨フォルダ構造
+## 📷 Sample 4
+![Sample Photo 4](DSC04895.JPG)
+
+---
+
+## 📷 Sample 5
+![Sample Photo 5](DSC04898.JPG)
+
+---
+
+# 📝 Purpose / このレポジトリの目的
+
+- GitHub への画像アップロードが正しく行えることの確認  
+- Markdown による画像表示テスト  
+- 研究・制作プロジェクトにおける **写真扱いの技術的証明（Evidence of Capability）**  
+- 将来的なデータ整理・アルバム化・作品展示のベースとして  
+
+---
+
+# 📁 Repository Structure
 
