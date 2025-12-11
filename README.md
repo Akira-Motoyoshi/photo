@@ -22,16 +22,12 @@
 ---
 
 ## 📷 Sample 3
-![Sample Photo 3](DSC04892.JPG)
 
----
-
-## 📷 Sample 4
 ![Sample Photo 4](DSC04895.JPG)
 
 ---
 
-## 📷 Sample 5
+## 📷 Sample 4
 ![Sample Photo 5](DSC04898.JPG)
 
 ---
