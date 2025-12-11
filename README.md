@@ -17,11 +17,6 @@
 ---
 
 ## 📷 Sample 2
-![Sample Photo 2](DSC03917.JPG)
-
----
-
-## 📷 Sample 3
 
 ![Sample Photo 4](DSC04895.JPG)
 
